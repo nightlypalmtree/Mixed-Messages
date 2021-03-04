@@ -3,4 +3,4 @@ First Project
 
 I have created a random phrase generator that conveys nonsense philosophies.
 
-[the concept](Mixed-Messages/Initial Project Concept Diagram.png)
+![the concept](Mixed-Messages/Initial Project Concept Diagram.png)
