@@ -1,13 +1,13 @@
-to
-for
-through
-past
-by
-of
-among
-along
-targetting
-following
-at the
-before
+to,
+for,
+through,
+past,
+by,
+of,
+among,
+along,
+targetting,
+following,
+at the,
+before,
 pursuing

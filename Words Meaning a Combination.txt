@@ -1,12 +1,23 @@
-Is The
-Without a/an
-With a/an
-For a/an
-Among a/an 
-Through a/an
-Mixed with a/an
-Adds to a/an
-Transitions With a/an
-By a/an
-Joins with a/an
+'Is The',
+'Without', a/an
+'With', a/an
+'For', a/an
+'Among', a/an 
+'Through', a/an
+'Mixed with', a/an
+'Adds to', a/an
+'Transitions With', a/an
+'By', a/an
+'Joins with', a/an
 
+'Is The',
+'Without', 
+'With', 
+'For', 
+'Among', 
+'Through',
+'Mixed with', 
+'Adds to', 
+'Transitions With', 
+'By', 
+'Joins with'
